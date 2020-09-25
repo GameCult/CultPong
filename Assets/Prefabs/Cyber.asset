@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aea1c4cc4c9d0d743a3e406614dd2332, type: 3}
+  m_Name: Cyber
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 4195564539687082, guid: 132d7071e3e381144990363e29ae3cea, type: 2}
+  MovementSpeed: 0.6
+  BashCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: -0.0000011910452
+      value: 0.003957285
+      inSlope: 29.83957
+      outSlope: 29.83957
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.013737634
+      value: 0.50657845
+      inSlope: 5.793918
+      outSlope: 5.793918
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.12434501
+      value: 0.99386746
+      inSlope: 2.429986
+      outSlope: -0.12233853
+      tangentMode: 1
+    - serializedVersion: 2
+      time: 1
+      value: -0.006248474
+      inSlope: 0.7121506
+      outSlope: 0.7121506
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  BashBoostCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0.76250076
+      inSlope: 1.8537086
+      outSlope: 1.8537086
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: -0.006248474
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  BashBoostDuration: 0.5
+  BashBoostPower: 1
+  BashDuration: 1.2
+  BashDistance: 0
+  BashBoostSpeed: 75
+  GlitchCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0.10767861
+      outSlope: 0.10767861
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0.012500763
+      inSlope: -0.119171456
+      outSlope: -0.119171456
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  GlitchDuration: 1.5
+  GlitchAmplitudePower: 2
+  DigitalGlitching: 0.75
+  ScanlineGlitching: 0.3
+  TrackingGlitching: 0.25
+  ColorDriftGlitching: 0.3
+  CameraShakeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0.8375015
+      inSlope: 1.379782
+      outSlope: 1.379782
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0.006248474
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  CameraShakeDuration: 1.25
+  CameraShakeAmplitudePower: 2

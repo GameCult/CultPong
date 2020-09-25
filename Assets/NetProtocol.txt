@@ -1,0 +1,90 @@
+CultPong Protocol by Messages Received
+
+Lobby Client
+	Chat
+		[0]=(string)User Name
+		[1]=(string)Message
+	PlayerJoined
+		[0]=(string)User ID
+		[1]=(string)User Name
+	PlayerLeft
+		[0]=(string)User ID
+	Name
+		[0]=(string)User ID
+		[1]=(string)User Name
+	ConfirmReady
+	Match
+		[0]=(string)Room ID
+
+Lobby Server
+	Chat
+		[0]=(string)Message
+	Name
+		[0]=(string)User Name
+	Ready
+
+Singles Client
+    Preferences
+        [0]=(int)Paddle
+		[1]=(int)Preferred Side of Remote Client
+		[2]=(string)Player Name
+	Launch
+		[0]=(float)Round Start Time
+		[1]=(float)Launch Angle
+    Start
+	Ping
+		[0]=(float)Client Ping Time
+		[1]=(float)Server Ping Time
+	MoveUp
+		[0]=(float)Event Time
+	MoveDown
+		[0]=(float)Event Time
+	StopMoving
+		[0]=(float)Event Time
+		[1]=(float)Position
+	Bash
+		[0]=(float)Event Time
+	Hit
+		[0]=(float)Event Time
+		[1]=(float)Ball Position X
+		[2]=(float)Ball Position Y
+		[3]=(float)Ball Direction X
+		[4]=(float)Ball Direction Y
+		[5]=(float)Hit Force
+		[6]=(bool)Set Hit
+		[7]=(float)Time Stretch in seconds
+	Victory
+	    [0]=(bool)True if You
+		
+Singles Server
+    Preferences
+        [0]=(int)Paddle
+        [1]=(int)Preferred Side
+    Ready
+	Ping
+		[0]=(float)Client Ping Time
+	Pong
+		[0]=(float)Client Ping Time
+		[1]=(float)Server Ping Time
+		[2]=(float)Client Pong Time
+	MoveUp
+		[0]=(float)Event Time
+	MoveDown
+		[0]=(float)Event Time
+	StopMoving
+		[0]=(float)Event Time
+		[1]=(float)Position
+	Bash
+		[0]=(float)Event Time
+	Hit
+		[0]=(float)Event Time
+		[1]=(float)Ball Position X
+		[2]=(float)Ball Position Y
+		[3]=(float)Ball Direction X
+		[4]=(float)Ball Direction Y
+		[5]=(float)Hit Force
+		[6]=(bool)Set Hit
+		[7]=(float)Time Stretch in seconds
+	Goal
+        [0]=(float)Cheer
+        [1]=(float)Time

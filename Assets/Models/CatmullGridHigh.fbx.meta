@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 2eb2bd036e3580c46b8209f27e02cecd
+timeCreated: 1508890355
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CatmullGrid.001_MeshPart0
+    100002: CatmullGrid.001_MeshPart1
+    100004: CatmullGrid.001_MeshPart10
+    100006: CatmullGrid.001_MeshPart11
+    100008: CatmullGrid.001_MeshPart12
+    100010: CatmullGrid.001_MeshPart13
+    100012: CatmullGrid.001_MeshPart14
+    100014: CatmullGrid.001_MeshPart2
+    100016: CatmullGrid.001_MeshPart3
+    100018: CatmullGrid.001_MeshPart4
+    100020: CatmullGrid.001_MeshPart5
+    100022: CatmullGrid.001_MeshPart6
+    100024: CatmullGrid.001_MeshPart7
+    100026: CatmullGrid.001_MeshPart8
+    100028: CatmullGrid.001_MeshPart9
+    100030: //RootNode
+    400000: CatmullGrid.001_MeshPart0
+    400002: CatmullGrid.001_MeshPart1
+    400004: CatmullGrid.001_MeshPart10
+    400006: CatmullGrid.001_MeshPart11
+    400008: CatmullGrid.001_MeshPart12
+    400010: CatmullGrid.001_MeshPart13
+    400012: CatmullGrid.001_MeshPart14
+    400014: CatmullGrid.001_MeshPart2
+    400016: CatmullGrid.001_MeshPart3
+    400018: CatmullGrid.001_MeshPart4
+    400020: CatmullGrid.001_MeshPart5
+    400022: CatmullGrid.001_MeshPart6
+    400024: CatmullGrid.001_MeshPart7
+    400026: CatmullGrid.001_MeshPart8
+    400028: CatmullGrid.001_MeshPart9
+    400030: //RootNode
+    2300000: CatmullGrid.001_MeshPart0
+    2300002: CatmullGrid.001_MeshPart1
+    2300004: CatmullGrid.001_MeshPart10
+    2300006: CatmullGrid.001_MeshPart11
+    2300008: CatmullGrid.001_MeshPart12
+    2300010: CatmullGrid.001_MeshPart13
+    2300012: CatmullGrid.001_MeshPart14
+    2300014: CatmullGrid.001_MeshPart2
+    2300016: CatmullGrid.001_MeshPart3
+    2300018: CatmullGrid.001_MeshPart4
+    2300020: CatmullGrid.001_MeshPart5
+    2300022: CatmullGrid.001_MeshPart6
+    2300024: CatmullGrid.001_MeshPart7
+    2300026: CatmullGrid.001_MeshPart8
+    2300028: CatmullGrid.001_MeshPart9
+    3300000: CatmullGrid.001_MeshPart0
+    3300002: CatmullGrid.001_MeshPart1
+    3300004: CatmullGrid.001_MeshPart10
+    3300006: CatmullGrid.001_MeshPart11
+    3300008: CatmullGrid.001_MeshPart12
+    3300010: CatmullGrid.001_MeshPart13
+    3300012: CatmullGrid.001_MeshPart14
+    3300014: CatmullGrid.001_MeshPart2
+    3300016: CatmullGrid.001_MeshPart3
+    3300018: CatmullGrid.001_MeshPart4
+    3300020: CatmullGrid.001_MeshPart5
+    3300022: CatmullGrid.001_MeshPart6
+    3300024: CatmullGrid.001_MeshPart7
+    3300026: CatmullGrid.001_MeshPart8
+    3300028: CatmullGrid.001_MeshPart9
+    4300000: CatmullGrid.001_MeshPart0
+    4300002: CatmullGrid.001_MeshPart1
+    4300004: CatmullGrid.001_MeshPart2
+    4300006: CatmullGrid.001_MeshPart3
+    4300008: CatmullGrid.001_MeshPart4
+    4300010: CatmullGrid.001_MeshPart5
+    4300012: CatmullGrid.001_MeshPart6
+    4300014: CatmullGrid.001_MeshPart7
+    4300016: CatmullGrid.001_MeshPart8
+    4300018: CatmullGrid.001_MeshPart9
+    4300020: CatmullGrid.001_MeshPart10
+    4300022: CatmullGrid.001_MeshPart11
+    4300024: CatmullGrid.001_MeshPart12
+    4300026: CatmullGrid.001_MeshPart13
+    4300028: CatmullGrid.001_MeshPart14
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
